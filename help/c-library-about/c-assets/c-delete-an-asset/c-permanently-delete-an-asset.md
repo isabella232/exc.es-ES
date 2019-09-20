@@ -1,32 +1,32 @@
 ---
-description: Puede eliminar permanentemente un recurso de papelera en la biblioteca de Adobe Experience Cloud.
-seo-description: Puede eliminar permanentemente un recurso de papelera en la biblioteca de Adobe Experience Cloud.
-seo-title: Eliminar permanentemente un recurso extraído
+description: Puede eliminar permanentemente un recurso de la papelera en la biblioteca de Adobe Experience Cloud.
+seo-description: Puede eliminar permanentemente un recurso de la papelera en la biblioteca de Adobe Experience Cloud.
+seo-title: Eliminar permanentemente un recurso enviado a la papelera
 solution: Experience Manager
-title: Eliminar permanentemente un recurso extraído
-uuid: 593713 aa -5 b 86-4474-a 462-c 1173 fdf 8 dc 7
-translation-type: tm+mt
+title: Eliminar permanentemente un recurso enviado a la papelera
+uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Eliminar permanentemente un recurso extraído{#permanently-delete-a-trashed-asset}
+# Eliminar permanentemente un recurso enviado a la papelera{#permanently-delete-a-trashed-asset}
 
-Puede eliminar permanentemente un recurso de papelera en la biblioteca de Adobe Experience Cloud.
+Puede eliminar permanentemente un recurso de la papelera en la biblioteca de Adobe Experience Cloud.
 
-Cuando se papelera un elemento, éste reside en el área Elementos trascadenados de la biblioteca de Experience Cloud durante 60 días. Si no restaura elementos, la biblioteca de Experience Cloud los elimina de forma permanente pasados 60 días.
+Cuando se envíe un elemento a la papelera, se guardará durante 60 días en el área de elementos eliminados de la biblioteca de Experience Cloud. Si no restaura los elementos, la biblioteca de Experience Cloud los eliminará de forma permanente pasados 60 días.
 
-Puede eliminar permanentemente un recurso transferido antes de que transcurra 60 días por:
+Puede eliminar permanentemente un recurso enviado a la papelera antes de que transcurran 60 días, realizando los siguientes pasos:
 
-1. Haga clic en **[!UICONTROL Elementos móviles]**.
+1. Haga clic en **[!UICONTROL Elementos enviados a la papelera]**.
 
    ![](assets/library_general_trashed_items.png)
 
-1. Haga clic en uno o varios elementos para eliminar de forma permanente.
+1. Haga clic en uno o varios elementos para eliminarlos de forma permanente.
 1. Haga clic en **[!UICONTROL Más información &gt; Eliminar permanentemente]**.
 
    ![](assets/library_restore_perm_delete.png)
 
-1. Confirme que desea eliminar permanentemente los recursos seleccionados.
+1. Confirme que quiere eliminar permanentemente los recursos seleccionados.
 
