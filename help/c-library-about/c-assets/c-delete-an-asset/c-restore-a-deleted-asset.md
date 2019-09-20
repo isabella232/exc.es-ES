@@ -1,33 +1,33 @@
 ---
-description: Puede restaurar un recurso que haya descargado en la biblioteca de Adobe Experience Cloud.
-seo-description: Puede restaurar un recurso que haya descargado en la biblioteca de Adobe Experience Cloud.
-seo-title: Restaurar un recurso extraído
+description: Puede restaurar un recurso que haya enviado a la papelera en la biblioteca de Adobe Experience Cloud.
+seo-description: Puede restaurar un recurso que haya enviado a la papelera en la biblioteca de Adobe Experience Cloud.
+seo-title: Restaurar un recurso enviado a la papelera
 solution: Experience Manager
-title: Restaurar un recurso extraído
-uuid: 5 cf 60 e 36-99 fb -4335-af 9 d -2224342 c 382 b
-translation-type: tm+mt
+title: Restaurar un recurso enviado a la papelera
+uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Restaurar un recurso extraído{#restore-a-trashed-asset}
+# Restaurar un recurso enviado a la papelera{#restore-a-trashed-asset}
 
-Puede restaurar un recurso que haya descargado en la biblioteca de Adobe Experience Cloud.
+Puede restaurar un recurso que haya enviado a la papelera en la biblioteca de Adobe Experience Cloud.
 
-Cuando se papelera un elemento, éste reside en el área Elementos trascadenados de la biblioteca de Experience Cloud durante 60 días. Si no restaura elementos, la biblioteca de Experience Cloud los elimina de forma permanente pasados 60 días.
+Cuando se envíe un elemento a la papelera, se guardará durante 60 días en el área de elementos eliminados de la biblioteca de Experience Cloud. Si no restaura los elementos, la biblioteca de Experience Cloud los eliminará de forma permanente pasados 60 días.
 
-Restaurar un recurso transferido antes de que pasen 60 días:
+Restaure un recurso enviado a la papelera antes de que pasen 60 días, realizando lo siguiente:
 
-1. Haga clic en **[!UICONTROL Elementos móviles]**.
+1. Haga clic en **[!UICONTROL Elementos enviados a la papelera]**.
 
    ![](assets/library_general_trashed_items.png)
 
-1. Haga clic en uno o más elementos para restaurar.
+1. Haga clic en uno o más elementos para restaurarlos.
 1. Haga clic en **[!UICONTROL Más información &gt; Restaurar]**.
 
    ![](assets/library_restore_perm_delete.png)
 
-1. Confirme que desea restaurar los recursos seleccionados.
+1. Confirme que quiere restaurar los recursos seleccionados.
 
 La confirmación del recurso restaurado se muestra en la parte superior.
