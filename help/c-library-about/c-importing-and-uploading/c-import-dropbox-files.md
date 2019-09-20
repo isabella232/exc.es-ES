@@ -1,17 +1,17 @@
 ---
 description: Importe archivos de Dropbox a la biblioteca de Adobe Experience Cloud para administrarlos desde cualquier producto de Adobe Experience Cloud.
 seo-description: Importe archivos de Dropbox a la biblioteca de Adobe Experience Cloud para administrarlos desde cualquier producto de Adobe Experience Cloud.
-seo-title: Importación de archivos de Dropbox en la biblioteca de Adobe Experience Cloud
+seo-title: Importar archivos de Dropbox en la biblioteca de Adobe Experience Cloud
 solution: Experience Manager
-title: Importación de archivos de Dropbox en la biblioteca de Adobe Experience Cloud
-uuid: 4 b 688762-02 ee -4718-9 da 8-55 b 9 a 59 c 5 ff 6
-translation-type: tm+mt
+title: Importar archivos de Dropbox en la biblioteca de Adobe Experience Cloud
+uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Importación de archivos de Dropbox en la biblioteca de Adobe Experience Cloud{#import-dropbox-files-into-the-adobe-experience-cloud-library}
+# Importar archivos de Dropbox en la biblioteca de Adobe Experience Cloud{#import-dropbox-files-into-the-adobe-experience-cloud-library}
 
 Importe archivos de Dropbox a la biblioteca de Adobe Experience Cloud para administrarlos desde cualquier producto de Adobe Experience Cloud.
 
@@ -31,13 +31,13 @@ Para importar archivos de Dropbox en la biblioteca de Experience Cloud:
 
    ![](assets/library_import_db.png)
 
-1. Click **[!UICONTROL Next]**.
+1. Haga clic en **[!UICONTROL Siguiente]**.
 1. Seleccione uno o varios archivos para importar.
 
    ![](assets/library_import_db_files_selected.png)
 
-1. Click **[!UICONTROL Next]**.
-1. Seleccione la carpeta en la que desea colocar los recursos.
+1. Haga clic en **[!UICONTROL Siguiente]**.
+1. Seleccione la carpeta en la que quiere colocar los recursos.
 
    >[!NOTE]
    >
@@ -45,5 +45,5 @@ Para importar archivos de Dropbox en la biblioteca de Experience Cloud:
 
    ![](assets/library_import_db_folder_select.png)
 
-1. Click **[!UICONTROL Import]**.
+1. Haga clic en **[!UICONTROL Importar]**.
 
