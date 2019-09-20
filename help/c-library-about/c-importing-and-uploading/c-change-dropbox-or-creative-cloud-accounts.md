@@ -1,21 +1,21 @@
 ---
 description: Cambie a una cuenta de Dropbox o Creative Cloud diferente para añadir contenido a la biblioteca de Adobe Experience Cloud.
 seo-description: Cambie a una cuenta de Dropbox o Creative Cloud diferente para añadir contenido a la biblioteca de Adobe Experience Cloud.
-seo-title: Cambiar dropbox o cuentas de Creative Cloud
+seo-title: Cambiar las cuentas de Dropbox o Creative Cloud
 solution: Experience Manager
-title: Cambiar dropbox o cuentas de Creative Cloud
-uuid: bc 8 c 9 cce-a 543-42 cc -81 cd-b 9995 f 26 c 8 d 4
-translation-type: tm+mt
+title: Cambiar las cuentas de Dropbox o Creative Cloud
+uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Cambiar dropbox o cuentas de Creative Cloud{#change-dropbox-or-creative-cloud-accounts}
+# Cambiar las cuentas de Dropbox o Creative Cloud{#change-dropbox-or-creative-cloud-accounts}
 
 Cambie a una cuenta de Dropbox o Creative Cloud diferente para añadir contenido a la biblioteca de Adobe Experience Cloud.
 
-Una vez que inicie sesión en una cuenta de Dropbox o Creative Cloud, permanecerá iniciada sesión a menos que cierre sesión o cambie cuentas.
+Una vez que inicie sesión en una cuenta de Dropbox o Creative Cloud, esta permanecerá iniciada a menos que cierre la sesión o cambie de cuenta.
 
 Para cambiar a una cuenta de Dropbox o Creative Cloud diferente:
 
@@ -28,7 +28,7 @@ Para cambiar a una cuenta de Dropbox o Creative Cloud diferente:
    ![](assets/library_import_cc.png)
 
 1. Seleccione **[!UICONTROL Siguiente]**.
-1. Seleccione el icono de engranaje en la esquina superior derecha.
+1. Seleccione el icono con forma de engranaje en la esquina superior derecha.
 
    ![](assets/library_switch_accounts.png)
 
