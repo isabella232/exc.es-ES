@@ -1,12 +1,15 @@
 ---
 description: Administre los recursos en las herramientas de la biblioteca de Adobe Experience Cloud para encontrar fácilmente detalles y versiones y así poder realizar acciones en esos recursos.
 seo-description: Administre los recursos en las herramientas de la biblioteca de Adobe Experience Cloud para encontrar fácilmente detalles y versiones y así poder realizar acciones en esos recursos.
-seo-title: Recursos
+seo-title: Assets
 solution: Experience Manager
-title: Recursos
+title: Assets
 uuid: dcb38464-a90e-45f8-8ff1-0881f31d46ac
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 100%
 
 ---
 
