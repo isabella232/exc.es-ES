@@ -5,8 +5,11 @@ seo-title: Cargar un recurso desde el dispositivo
 solution: Experience Manager
 title: Cargar un recurso desde el dispositivo
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 96%
 
 ---
 
@@ -17,7 +20,7 @@ Cargue recursos desde su dispositivo para administrarlos en la biblioteca de Ado
 
 Para cargar recursos desde el dispositivo a la biblioteca de Experience Cloud:
 
-1. Seleccione **[!UICONTROL Nuevo]** &gt; **[!UICONTROL Cargar]**.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Upload]**.
 
    ![](assets/library_new_folder_upload.png)
 
