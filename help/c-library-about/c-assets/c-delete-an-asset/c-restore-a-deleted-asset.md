@@ -5,8 +5,11 @@ seo-title: Restaurar un recurso enviado a la papelera
 solution: Experience Manager
 title: Restaurar un recurso enviado a la papelera
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ Restaure un recurso enviado a la papelera antes de que pasen 60 días, realizand
    ![](assets/library_general_trashed_items.png)
 
 1. Haga clic en uno o más elementos para restaurarlos.
-1. Haga clic en **[!UICONTROL Más información &gt; Restaurar]**.
+1. Haga clic en **[!UICONTROL Más información > Restaurar]**.
 
    ![](assets/library_restore_perm_delete.png)
 
