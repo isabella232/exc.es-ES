@@ -5,8 +5,11 @@ seo-title: Cambiar las cuentas de Dropbox o Creative Cloud
 solution: Experience Manager
 title: Cambiar las cuentas de Dropbox o Creative Cloud
 uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +22,7 @@ Una vez que inicie sesión en una cuenta de Dropbox o Creative Cloud, esta perma
 
 Para cambiar a una cuenta de Dropbox o Creative Cloud diferente:
 
-1. Seleccione **[!UICONTROL Nuevo]** &gt; **[!UICONTROL Importar]**.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 
