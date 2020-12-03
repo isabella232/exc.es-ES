@@ -5,8 +5,11 @@ seo-title: Eliminar permanentemente un recurso enviado a la papelera
 solution: Experience Manager
 title: Eliminar permanentemente un recurso enviado a la papelera
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ Puede eliminar permanentemente un recurso enviado a la papelera antes de que tra
    ![](assets/library_general_trashed_items.png)
 
 1. Haga clic en uno o varios elementos para eliminarlos de forma permanente.
-1. Haga clic en **[!UICONTROL Más información &gt; Eliminar permanentemente]**.
+1. Haga clic en **[!UICONTROL Más información > Eliminar permanentemente]**.
 
    ![](assets/library_restore_perm_delete.png)
 
