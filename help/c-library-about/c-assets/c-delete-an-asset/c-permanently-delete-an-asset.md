@@ -1,14 +1,13 @@
 ---
 description: Puede eliminar permanentemente un recurso de la papelera en la biblioteca de Adobe Experience Cloud.
-seo-description: Puede eliminar permanentemente un recurso de la papelera en la biblioteca de Adobe Experience Cloud.
-seo-title: Eliminar permanentemente un recurso enviado a la papelera
+seo-description: You can permanently delete a trashed asset in the Adobe Experience Cloud Library.
+seo-title: Permanently Delete a Trashed Asset
 solution: Experience Manager
 title: Eliminar permanentemente un recurso enviado a la papelera
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---

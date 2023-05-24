@@ -1,14 +1,13 @@
 ---
 description: Cancele una carga del dispositivo a la biblioteca de Adobe Experience Cloud si ha seleccionado un archivo incorrecto o que es demasiado grande.
-seo-description: Cancele una carga del dispositivo a la biblioteca de Adobe Experience Cloud si ha seleccionado un archivo incorrecto o que es demasiado grande.
-seo-title: Cancelar una carga
+seo-description: Cancel an upload from your device to the Adobe Experience Cloud Library if you selected the incorrect or too large of a file.
+seo-title: Cancel an Upload
 solution: Experience Manager
 title: Cancelar una carga
 uuid: 29cd1c48-0ab5-46cf-81bf-50571e3078f3
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '110'
 ht-degree: 100%
 
 ---

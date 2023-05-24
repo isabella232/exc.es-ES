@@ -1,14 +1,13 @@
 ---
 description: Consulte información detallada sobre los recursos y sus versiones en la biblioteca de Adobe Experience Cloud.
-seo-description: Consulte información detallada sobre los recursos y sus versiones en la biblioteca de Adobe Experience Cloud.
-seo-title: Ver información detallada de un recurso
+seo-description: View detailed information about assets, including versions, in the Adobe Experience Cloud Library.
+seo-title: View Detailed Information for an Asset
 solution: Experience Manager
 title: Ver información detallada de un recurso
 uuid: 030511fd-b6b5-4fe8-b129-d9937d1133a4
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '76'
 ht-degree: 100%
 
 ---

@@ -1,14 +1,13 @@
 ---
 description: Cargue recursos desde su dispositivo para administrarlos en la biblioteca de Adobe Experience Cloud.
-seo-description: Cargue recursos desde su dispositivo para administrarlos en la biblioteca de Adobe Experience Cloud.
-seo-title: Cargar un recurso desde el dispositivo
+seo-description: Upload assets from your device to manage them in the Adobe Experience Cloud Library.
+seo-title: Upload Asset from Device
 solution: Experience Manager
 title: Cargar un recurso desde el dispositivo
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '77'
 ht-degree: 96%
 
 ---
@@ -20,7 +19,7 @@ Cargue recursos desde su dispositivo para administrarlos en la biblioteca de Ado
 
 Para cargar recursos desde el dispositivo a la biblioteca de Experience Cloud:
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Upload]**.
+1. Seleccionar **[!UICONTROL Nuevo]** > **[!UICONTROL Cargar]**.
 
    ![](assets/library_new_folder_upload.png)
 
